@@ -1,5 +1,4 @@
 #!/bin/bash
-# source document: https://docs.google.com/document/d/14YjFfLrqVp1SZVLN8GYqRvLAknOSWNDZtA1o0nQe1YM/edit?usp=sharing
 
 set -e
 
